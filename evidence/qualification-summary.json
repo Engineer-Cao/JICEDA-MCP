@@ -1,0 +1,32 @@
+{
+  "recordType": "allowlisted-extract-not-complete-raw-log",
+  "date": "2026-10-18",
+  "tests": {
+    "total": 332,
+    "passed": 332,
+    "failed": 0,
+    "addedGroups": 5
+  },
+  "caseA": {
+    "parts": 12,
+    "pins": 24,
+    "schematicDoubleCapture": "passed",
+    "pcbActivation": "timeout-completion-unknown"
+  },
+  "caseB": {
+    "expectedParts": 15,
+    "status": "renderer-dispatch-blocked-by-shared-uncertainty",
+    "nativeCircuitQualification": "not-executed"
+  },
+  "completedRequiredCycles": 0,
+  "requiredCycles": 6,
+  "actionsThisRound": {
+    "designMutations": 0,
+    "saveCalls": 0,
+    "projectCloseCalls": 0,
+    "projectOpenCalls": 0,
+    "exports": 0
+  },
+  "decision": "STOP_CURRENT_AUTONOMOUS_DESIGN_INTEGRATION_ROUTE",
+  "limitation": "No complete second-circuit qualification. Isolation success does not establish editor completion or end-to-end design reliability."
+}

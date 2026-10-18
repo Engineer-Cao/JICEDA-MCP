@@ -1,0 +1,107 @@
+{
+  "recordType": "allowlisted-schematic-observation-not-importable-project",
+  "case": "A",
+  "date": "2026-10-18",
+  "parts": 12,
+  "pins": 24,
+  "nets": 0,
+  "unconnectedPins": [
+    {
+      "reference": "J1",
+      "pin": "1"
+    },
+    {
+      "reference": "J1",
+      "pin": "2"
+    },
+    {
+      "reference": "R1",
+      "pin": "2"
+    },
+    {
+      "reference": "R1",
+      "pin": "1"
+    },
+    {
+      "reference": "C1",
+      "pin": "1"
+    },
+    {
+      "reference": "C1",
+      "pin": "2"
+    },
+    {
+      "reference": "R2",
+      "pin": "2"
+    },
+    {
+      "reference": "R2",
+      "pin": "1"
+    },
+    {
+      "reference": "C2",
+      "pin": "1"
+    },
+    {
+      "reference": "C2",
+      "pin": "2"
+    },
+    {
+      "reference": "J2",
+      "pin": "1"
+    },
+    {
+      "reference": "J2",
+      "pin": "2"
+    },
+    {
+      "reference": "J3",
+      "pin": "1"
+    },
+    {
+      "reference": "J3",
+      "pin": "2"
+    },
+    {
+      "reference": "R3",
+      "pin": "2"
+    },
+    {
+      "reference": "R3",
+      "pin": "1"
+    },
+    {
+      "reference": "C3",
+      "pin": "1"
+    },
+    {
+      "reference": "C3",
+      "pin": "2"
+    },
+    {
+      "reference": "R4",
+      "pin": "2"
+    },
+    {
+      "reference": "R4",
+      "pin": "1"
+    },
+    {
+      "reference": "C4",
+      "pin": "1"
+    },
+    {
+      "reference": "C4",
+      "pin": "2"
+    },
+    {
+      "reference": "J4",
+      "pin": "1"
+    },
+    {
+      "reference": "J4",
+      "pin": "2"
+    }
+  ],
+  "limitation": "No component models, private identities, geometry, library data, source signature or complete project are included."
+}

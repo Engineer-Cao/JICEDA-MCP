@@ -1,0 +1,17 @@
+# Documentation-only repository: files must be explicitly allowlisted.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/docs/
+!/evidence/
+/docs/*
+!/docs/architecture.md
+!/docs/capability-contracts.md
+!/docs/progress.md
+!/docs/postmortem.md
+/evidence/*
+!/evidence/README.md
+!/evidence/qualification-summary.json
+!/evidence/case-a-schematic.json
+!/evidence/transport-observations.json

@@ -1,0 +1,25 @@
+{
+  "recordType": "allowlisted-log-fields-and-separately-labelled-summary",
+  "date": "2026-10-18",
+  "exactAuditFields": {
+    "action": "document.open",
+    "ok": false,
+    "durationMs": 30013,
+    "errorCode": "DISPATCH_FAILED",
+    "errorMsg": "connector did not respond",
+    "errorDetail": "context deadline exceeded"
+  },
+  "probeSummary": {
+    "source": "upstream-automatic-probe",
+    "wait": "5m0s",
+    "outcome": "no-answer",
+    "notAClientRetry": true,
+    "underlyingCompletion": "unknown"
+  },
+  "independentNewProcessObservation": {
+    "rendererDispatchBlocked": true,
+    "originalStateUnchanged": true,
+    "secondCircuitQualification": "not-executed"
+  },
+  "limitation": "Timeout and process isolation do not prove cancellation or identify which editor/connector stage stalled."
+}
